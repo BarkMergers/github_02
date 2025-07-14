@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "github_02", "github_02\github_02.esproj", "{4CE78CCE-9D41-E8DA-E7E1-F4BBCA4047F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE78CCE-9D41-E8DA-E7E1-F4BBCA4047F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE78CCE-9D41-E8DA-E7E1-F4BBCA4047F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE78CCE-9D41-E8DA-E7E1-F4BBCA4047F0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4CE78CCE-9D41-E8DA-E7E1-F4BBCA4047F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE78CCE-9D41-E8DA-E7E1-F4BBCA4047F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE78CCE-9D41-E8DA-E7E1-F4BBCA4047F0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53C87643-551E-41F4-A508-0F48DF5B3B61}
+	EndGlobalSection
+EndGlobal
